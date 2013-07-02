@@ -1,4 +1,4 @@
-# Genie
+# Benie Hello, World
 Genie is a place for you to publish open-source lessons. All of your lessons
 will be in simple text files that are easy to maintain and fully owned by you.
 
